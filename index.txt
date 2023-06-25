@@ -1,3 +1,0 @@
-My name is Navneet .
-
-This is my react file repository.
